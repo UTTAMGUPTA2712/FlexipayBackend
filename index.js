@@ -4,6 +4,9 @@ const app = express()
 const List = require("./model/transactions")
 const User = require("./model/user")
 const Seller = require("./model/seller")
+const cors=require("cors")
+
+app.use(cors)
 app.use(express.json())
 app.use(express.urlencoded({ extended: false }))
 
