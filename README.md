@@ -1,3 +1,3 @@
 # FlexipayBackend
 
-[CHECK DEPLAY](https://flexipay2712.netlify.app/)
+[CHECK DEPLOYED VERSION](https://flexipay2712.netlify.app/)
